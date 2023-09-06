@@ -4,6 +4,10 @@ import pandas as pd
 from PIL import Image
 import time
 
+
+st.write('ファイル更新テスト')
+
+
 #lesson7プログレスバー
 st.write('lesson7:プログレスバー')
 'Start!!'
