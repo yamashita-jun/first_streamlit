@@ -5,7 +5,7 @@ from PIL import Image
 import time
 
 
-st.write('ファイル更新テスト３')
+st.write('ファイル更新テスト２')
 
 
 #lesson7プログレスバー
